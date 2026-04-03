@@ -2,6 +2,7 @@
 
 // Desafio Super Trunfo - Países 
 // Tema 1 - Cadastro das Cartas 
+//NIVEL AVENTUREIRO COM CALCULOS INICIAIS
 
 int main() { 
 
